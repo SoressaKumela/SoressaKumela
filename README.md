@@ -1,84 +1,57 @@
-<div align="center">
+# 👋 Hey, I'm Soressa Kumela!
 
-<!-- HEADER GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4ZHBkOXFua2s5dGFmMXgzbHhrcXNtOWVkaGlwa3d5YzY2OGN0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7¢er=true&vCenter=true&width=435&lines=Hey,+I'm+Soressa+Kumela;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Game+Bot+Creator" alt="Typing SVG">
-  </a>
-</h1>
-
-### I design systems that think, automate, and solve.
-<br>
-
-</div>
+I'm a **Full Stack Developer** 👨‍💻 with a deep love for building smart, scalable systems — from slick web apps 🌐 to genius game-solving bots 🤖 and powerful AI-driven tools 🧠.
 
 ---
 
-## 🚀 My Core Focus
+## 🔧 What I Do
 
-| | |
-| :---: | :--- |
-| <img src="https://media.giphy.com/media/d3QAeWeZeH21K/giphy.gif" width="80"> | **Automation & AI:** Building intelligent bots for games and apps using Python, Computer Vision, and LLMs. |
-| <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="80"> | **Full-Stack Craft:** Developing seamless web applications with React, Tailwind, and powerful Python backends. |
-| <img src="https://media.giphy.com/media/jSK0fzzb3chbO/giphy.gif" width="80"> | **Workflow Design:** Architecting smart, automated systems with n8n, APIs, and custom logic. |
-
----
-
-## 🛠️ My Tech Arsenal
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,tailwind,flask,fastapi,mongodb,opencv,bash,git,githubactions" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=figma,idea,vscode,postman,n8n,linux,docker" />
-  </a>
-</p>
+- 🦾 **Automate Everything:** I build bots that conquer games and streamline apps using `Python` + `Computer Vision`.
+- ⚙️ **Design Intelligent Workflows:** I architect smart systems with `n8n`, APIs, and a sprinkle of AI magic.
+- 🏗️ **Build Full-Stack Apps:** I bring ideas to life with `React`, `Tailwind`, `Flask`, and `FastAPI`.
+- 🧠 **Lead AI-Powered Education:** I'm the lead developer of **SiTiYaNa Study**, a tool that turns boring textbooks into your ultimate study sidekick.
 
 ---
 
-## 🏆 My Signature Projects
+## 🚀 My Signature Projects
 
-| Icon | Project | Core Idea | Key Tech |
-| :---: | :--- | :--- | :--- |
-| 🎓 | **SiTiYaNa Study** | Turns any textbook into an interactive study companion with AI-generated notes, quizzes, and flashcards. | `LLMs` `LangChain` `React` `FastAPI` |
-| 🎮 | **Game Automation Suite** | A collection of bots that solve mobile games (Water Sort, Tile Puzzles) using search algorithms & CV. | `Python` `OpenCV` `ADB` |
-| 🛡️ | **n8n Automation Hub** | Custom workflows that handle complex tasks, including integrating CAPTCHA solvers and reverse-engineered APIs. | `n8n` `APIs` `JavaScript` |
-
----
-
-## 📊 My GitHub Pulse
-
-<div align="center">
-
-<!-- Replace `your-github-username` with your GitHub username -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soressakumela&show_icons=true&theme=radical&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soressakumela&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+### 🎓 SiTiYaNa Study *(2024–Present)*
+> **Goal:** To make learning engaging, personalized, and *fun*.
+- ✍️ **Auto-Generated Notes:** We turn any textbook into clear, concise lecture notes.
+- 🤔 **Personalized Quizzes:** Test your knowledge with quizzes that get smarter as you do.
+- 🃏 **Gamified Flashcards:** Learn faster with interactive flashcards and learning journeys.
 
 ---
 
-## 🤝 Let's Connect
+### 🎮 Game & App Automation
+> **Goal:** To solve mobile games and complex tasks at scale with intelligent bots.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soressakumela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-   
-  <!-- Add your email -->
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- 💧 **Water Sort Puzzle Solver:** A wicked-smart bot using **DFS / A* Search** and computer vision to solve the puzzle instantly.
+- 🧩 **Tile Triple Puzzle Automation:** High-speed automation to master any tile-matching game.
+- 🛡️ **CAPTCHA Automation:** Building robust workflows with Kolotibablo and `n8n` to handle CAPTCHAs.
 
-<br>
+**Technologies:** `Python`, `OpenCV`, `ADB`, `n8n`, `API Reverse Engineering`
 
-<div align="center">
+---
 
-> ## *"Don't just code — design systems that think."* ⚡
+## 🧰 My Toolbox
 
-</div>
+- **Languages:** `Python` | `JavaScript`
+- **Frontend:** `React` | `TailwindCSS` | `Playwright`
+- **Backend:** `Flask` | `FastAPI`
+- **Databases:** `MongoDB`
+- **AI & Automation:** `OpenCV` | `LLMs (OpenAI, Claude)` | `LangChain` | `n8n`
+- **DevOps & Tools:** `GitHub Actions` | `ADB` | `Bash`
+
+---
+
+## 📬 Let's Connect!
+
+I'm on the lookout for exciting **freelance projects**, **collaborations**, or even just a chat about wild ideas. Don't be a stranger!
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/soressakumela)**
+- 💌 **Email or DM me!**
+
+---
+
+> ## ⚡ *"Don't just code — design systems that think."*
