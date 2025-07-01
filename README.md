@@ -1,85 +1,84 @@
 <div align="center">
 
-# 👋 Hey, I'm Soressa Kumela 👨‍💻
+<!-- HEADER GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4ZHBkOXFua2s5dGFmMXgzbHhrcXNtOWVkaGlwa3d5YzY2OGN0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%"/>
 
-### A Full Stack Developer who crafts intelligent, scalable systems.
+<!-- TYPING ANIMATION -->
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7¢er=true&vCenter=true&width=435&lines=Hey,+I'm+Soressa+Kumela;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Game+Bot+Creator" alt="Typing SVG">
+  </a>
+</h1>
 
-I blend web development, game automation, and AI to build tools that don't just work—they *think*.
+### I design systems that think, automate, and solve.
+<br>
 
 </div>
 
 ---
 
-## 🚀 What I Specialize In
+## 🚀 My Core Focus
 
-| Category | Description |
-| :--- | :--- |
-| 🦾 **Automation & Bots** | Building smart bots for games and apps using **Python** and **Computer Vision**. |
-| ⚙️ **Intelligent Workflows** | Designing complex, AI-driven systems with **n8n**, APIs, and custom logic. |
-| 🏗️ **Full-Stack Development** | Crafting seamless web experiences with **React**, **Tailwind**, **Flask**, and **FastAPI**. |
-| 🧠 **AI-Powered Learning** | Leading the development of **SiTiYaNa Study**, my flagship project turning textbooks into interactive study companions. |
-
----
-
-## 🏆 Projects That Define Me
-
-### 🎓 SiTiYaNa Study <small>(2024–Present)</small>
-*My passion project to revolutionize learning.*
-> We transform dense academic content into:
-> - ✍️ **Auto-Generated Lecture Notes:** Crystal-clear summaries from any textbook.
-> - 🤔 **Personalized Quizzes:** Challenging questions that adapt to your knowledge level.
-> - 🃏 **Gamified Learning:** Interactive flashcards and study journeys that make learning addictive.
-
-### 🎮 Game & App Automation
-*Solving complex puzzles and tasks at scale with code.*
-> - 💧 **Water Sort Puzzle Solver:** A bot that solves the game using **DFS / A* Search** and computer vision.
-> - 🧩 **Tile Triple Puzzle Automation:** A high-speed bot to clear tile-matching puzzles.
-> - 🛡️ **CAPTCHA Workflows:** Integrating services like **Kolotibablo** into **n8n** for automated task completion.
->
-> **Core Tech:** `Python`, `OpenCV`, `ADB`, `n8n`, `API Reverse Engineering`
+| | |
+| :---: | :--- |
+| <img src="https://media.giphy.com/media/d3QAeWeZeH21K/giphy.gif" width="80"> | **Automation & AI:** Building intelligent bots for games and apps using Python, Computer Vision, and LLMs. |
+| <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="80"> | **Full-Stack Craft:** Developing seamless web applications with React, Tailwind, and powerful Python backends. |
+| <img src="https://media.giphy.com/media/jSK0fzzb3chbO/giphy.gif" width="80"> | **Workflow Design:** Architecting smart, automated systems with n8n, APIs, and custom logic. |
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## 🛠️ My Tech Arsenal
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### Backend & Database
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI, Automation & DevOps
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-008664?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to freelance opportunities, collaborations, or just a great conversation about tech.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/soressakumela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-   
-  <!-- Add your email here -->
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,tailwind,flask,fastapi,mongodb,opencv,bash,git,githubactions" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=figma,idea,vscode,postman,n8n,linux,docker" />
   </a>
 </p>
 
 ---
 
-> ## ⚡ *"Don't just code — design systems that think."*
+## 🏆 My Signature Projects
+
+| Icon | Project | Core Idea | Key Tech |
+| :---: | :--- | :--- | :--- |
+| 🎓 | **SiTiYaNa Study** | Turns any textbook into an interactive study companion with AI-generated notes, quizzes, and flashcards. | `LLMs` `LangChain` `React` `FastAPI` |
+| 🎮 | **Game Automation Suite** | A collection of bots that solve mobile games (Water Sort, Tile Puzzles) using search algorithms & CV. | `Python` `OpenCV` `ADB` |
+| 🛡️ | **n8n Automation Hub** | Custom workflows that handle complex tasks, including integrating CAPTCHA solvers and reverse-engineered APIs. | `n8n` `APIs` `JavaScript` |
+
+---
+
+## 📊 My GitHub Pulse
+
+<div align="center">
+
+<!-- Replace `your-github-username` with your GitHub username -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soressakumela&show_icons=true&theme=radical&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soressakumela&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soressakumela" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   
+  <!-- Add your email -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+
+> ## *"Don't just code — design systems that think."* ⚡
+
+</div>
