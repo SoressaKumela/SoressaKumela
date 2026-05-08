@@ -1,5 +1,5 @@
 Soressa Kumela
 
-Full Stack ⚡ React • FastAPI • MongoDB
+Full Stack ⚡ 
 
 AI/ML 🤖 Python • Supervised • Reinforcement • Unupervised
